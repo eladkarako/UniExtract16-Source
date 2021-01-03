@@ -11,4 +11,4 @@ the reversed-engineered version is is super flat and pretty much dependency-less
 
 <br/>
 You can see the comparison side-by-side in here:<br/>
-<a href="https://eladkarako.github.io/uniextract-src/index.html">eladkarako.github.io/uniextract-src/</a>.
+<a href="https://eladkarako.com/UniExtract16-Source/">https://eladkarako.com/UniExtract16-Source/</a>.
